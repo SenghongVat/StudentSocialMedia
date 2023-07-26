@@ -1,0 +1,418 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Telex&family=Tinos&family=Titan+One&display=swap');
+.HomePage {
+  margin: auto;
+  width: 430px;
+  height: 932px;
+  position: relative;
+  background: white;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 60px;
+  overflow: hidden;
+  border: 2.5px black solid;
+}
+.IphoneBar {
+  width: 336.4px; height: 894px; left: 47px; top: 27px; position: absolute;
+}
+.Time {
+  width: 54px;
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 17px;
+  font-family: SF Pro Text;
+  font-weight: 600;
+  line-height: 22px;
+  word-wrap: break-word;
+}
+.RightSide {
+  width: 77.4px; height: 13px; left: 259px; top: 3px; position: absolute;
+}
+  .BatteryBar {
+    width: 27.4px; height: 13px; left: 50px; top: 0px; position: absolute;
+  }
+  .Wifi {
+    width: 17px; height: 11.83px; left: 26px; top: 1px; position: absolute;
+  }
+  .IconMobileSignal{
+    width: 18px; height: 12px; left: 0px; top: 1px; position: absolute;
+  }
+.HomeSlide {
+  width: 150px; height: 5px; left: 93px; top: 889px; position: absolute; background: #252525; border-radius: 5px;
+}
+.LogoTop {
+  width: 364px; height: 49px; left: 38px; top: 61px; position: absolute;
+}
+.SSM {
+  left: 0px;
+  top: 3px;
+  position: absolute;
+  text-align: center;
+  color: #242424;
+  font-size: 32px;
+  font-family: Titan One;
+  font-weight: 400;
+  line-height: 22px;
+  word-wrap: break-word;
+}
+.Community {
+  left: 152px;
+  top: 25px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: 22px;
+  word-wrap: break-word;
+}
+.Message {
+  left: 244px;
+  top: 25px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: 22px;
+  word-wrap: break-word;
+}
+.Setting {
+  left: 321px;
+  top: 27px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: 22px;
+  word-wrap: break-word;
+}
+.PostBar {
+  width: 380px; height: 52px; left: 25px; top: 122px; position: absolute;
+}
+  .Rectangle6 {
+    width: 380px;
+    height: 52px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: rgba(115, 138, 144, 0.5);
+    border-radius: 30px;
+    border: 0.25px black solid;
+  }
+  .WhatSOnYourMind {
+    left: 37px;
+    top: 16px;
+    position: absolute;
+    text-align: center;
+    color: #8f8f8f;
+    font-size: 18px;
+    font-family: Telex;
+    font-weight: 400;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+.Post {
+  width: 375px; height: 365px; left: 28px; top: 185px; position: absolute;
+}
+  .Rectangle7 {
+    width: 375px;
+    height: 365px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: rgba(236.94, 236.94, 236.94, 0.8);
+    border-radius: 10px;
+    border: 0.5px black solid;
+  }
+  .Ellipse1 {
+    width: 60px;
+    height: 60px;
+    left: 22px;
+    top: 19px;
+    position: absolute;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9999px;
+    border: 0.75px #d9d9d9 solid;
+  }
+  .Rectangle8 {
+    width: 310px; height: 190px; left: 34px; top: 117px; position: absolute; border-radius: 15px;
+  }
+.Text {
+  width: 262px; height: 318px; left: 52px; top: 27px; position: absolute;
+}
+  .heart-count{
+    left: 30px;
+    top: 296px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    font-family: Telex;
+    font-weight: 400;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+  .comment-count {
+    left: 142px;
+    top: 296px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    font-family: Telex;
+    font-weight: 400;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+  .share-count {
+    left: 244px;
+    top: 296px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    font-family: Telex;
+    font-weight: 400;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+  .post-time {
+    left: 50px;
+    top: 22px;
+    position: absolute;
+    text-align: center;
+    color: #2d2d2d;
+    font-size: 12px;
+    font-family: Telex;
+    font-weight: 400;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+  .locationName {
+    left: 131px;
+    top: 22px;
+    position: absolute;
+    text-align: center;
+    color: #525252;
+    font-size: 10px;
+    font-family: Telex;
+    font-weight: 400;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+  .caption {
+    left: 0px;
+    top: 63px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 14px;
+    font-family: Telex;
+    font-weight: 400;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+  .profileName {
+    left: 48px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    font-family: Tinos;
+    font-weight: 700;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+
+.Post2 {
+  width: 375px; height: 270px; left: 28px; top: 566px; position: absolute;
+}
+  .Rectangle9 {
+    width: 375px;
+    height: 270px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: rgba(236.94, 236.94, 236.94, 0.8);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-left: 0.5px black solid;
+    border-top: 0.5px black solid;
+    border-right: 0.5px black solid;
+  }
+  .post-photo2 {
+    width: 310px;
+    height: 159.34px;
+    left: 34px;
+    top: 111.69px;
+    position: absolute;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
+  .profile-post2 {
+    width: 60px;
+    height: 60px;
+    left: 22px;
+    top: 15.64px;
+    position: absolute;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9999px;
+    border: 0.75px #d9d9d9 solid;
+  }
+  .Text {
+    width: 271px; height: 82.55px; left: 52px; top: 22.34px; position: absolute;
+  }
+    .time2 {
+      left: 53px;
+      top: 21.37px;
+      position: absolute;
+      text-align: center;
+      color: #2d2d2d;
+      font-size: 12px;
+      font-family: Telex;
+      font-weight: 400;
+      line-height: 22px;
+      word-wrap: break-word;
+    }
+    .location2 {
+      left: 130px;
+      top: 21.37px;
+      position: absolute;
+      text-align: center;
+      color: #525252;
+      font-size: 10px;
+      font-family: Telex;
+      font-weight: 400;
+      line-height: 22px;
+      word-wrap: break-word;
+    }
+    .caption2 {
+      left: 0px;
+      top: 61.19px;
+      position: absolute;
+      text-align: center;
+      color: black;
+      font-size: 14px;
+      font-family: Telex;
+      font-weight: 400;
+      line-height: 22px;
+      word-wrap: break-word;
+    }
+    .profileName2 {
+      width: 110px;
+      height: 21.37px;
+      left: 40px;
+      top: 0px;
+      position: absolute;
+      text-align: center;
+      color: black;
+      font-size: 15px;
+      font-family: Tinos;
+      font-weight: 700;
+      line-height: 22px;
+      word-wrap: break-word;
+    }
+  .Icon {
+    width: 198.22px; height: 53.42px; left: 165px; top: 3.88px; position: absolute;
+  }
+
+.profilesm {
+  width: 25px;
+  height: 25px;
+  left: 299px;
+  top: 0px;
+  position: absolute;
+  box-shadow: 0.5px 0.5px 0.5px;
+  border-radius: 9999px;
+  border: 0.75px #707070 solid;
+  filter: blur(0.5px);
+}
+.TextBottom {
+  width: 342px; height: 22px; left: 0px; top: 34px; position: absolute;
+}
+  .ProfileT {
+    left: 302px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: #434343;
+    font-size: 13px;
+    font-family: Comfortaa;
+    font-weight: 400;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+  .Inbox {
+    left: 215px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: #434343;
+    font-size: 13px;
+    font-family: Comfortaa;
+    font-weight: 400;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+  .Store {
+    left: 154px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: #434343;
+    font-size: 13px;
+    font-family: Comfortaa;
+    font-weight: 400;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+  .Search {
+    left: 78px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: #434343;
+    font-size: 13px;
+    font-family: Comfortaa;
+    font-weight: 400;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+  .Home {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 13px;
+    font-family: Comfortaa;
+    font-weight: 700;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+.LineTop {
+  width: 422px;
+  height: 0px;
+  left: 4px;
+  top: 113px;
+  position: absolute;
+  border: 1px #7b7b7b solid;
+}
+.LineBottom {
+  width: 422px;
+  height: 0px;
+  left: 4px;
+  top: 838px;
+  position: absolute;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px #7b7b7b solid;
+}
+

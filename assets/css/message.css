@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Roboto&family=Telex&family=Tinos&family=Titan+One&display=swap');
+.RightSide {
+  width: 77.4px; height: 13px; left: 259px; top: 3px; position: absolute;
+}
+  .BatteryBar {
+    width: 27.4px; height: 13px; left: 50px; top: 0px; position: absolute;
+  }
+  .Wifi {
+    width: 17px; height: 11.83px; left: 26px; top: 1px; position: absolute;
+  }
+  .IconMobileSignal{
+    width: 18px; height: 12px; left: 0px; top: 1px; position: absolute;
+  }

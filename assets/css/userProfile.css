@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Roboto&family=Telex&family=Tinos&family=Titan+One&display=swap');
+.UserProfile {
+  margin: auto;
+  width: 430px;
+  height: 932px;
+  position: relative;
+  background: white;
+  border-radius: 60px;
+  overflow: hidden;
+  border: 2.5px black solid;
+}
+.RightSide {
+  width: 77.4px; height: 13px; left: 259px; top: 3px; position: absolute;
+}
+  .BatteryBar {
+    width: 27.4px; height: 13px; left: 50px; top: 0px; position: absolute;
+  }
+  .Wifi {
+    width: 17px; height: 11.83px; left: 26px; top: 1px; position: absolute;
+  }
+  .IconMobileSignal{
+    width: 18px; height: 12px; left: 0px; top: 1px; position: absolute;
+  }
+.profilesm {
+    width: 25px;
+    height: 25px;
+    left: 299px;
+    top: 0px;
+    position: absolute;
+    box-shadow: 0.5px 0.5px 0.5px;
+    border-radius: 9999px;
+    border: 0.75px #707070 solid;
+    filter: blur(0.5px);
+  }
+  .TextBottom {
+    width: 342px; height: 22px; left: 0px; top: 34px; position: absolute;
+  }
+    .ProfileT {
+      left: 302px;
+      top: 0px;
+      position: absolute;
+      text-align: center;
+      color: #434343;
+      font-size: 13px;
+      font-family: Comfortaa;
+      font-weight: 400;
+      line-height: 22px;
+      word-wrap: break-word;
+    }
+    .Inbox {
+      left: 215px;
+      top: 0px;
+      position: absolute;
+      text-align: center;
+      color: #434343;
+      font-size: 13px;
+      font-family: Comfortaa;
+      font-weight: 400;
+      line-height: 22px;
+      word-wrap: break-word;
+    }
+    .Store {
+      left: 154px;
+      top: 0px;
+      position: absolute;
+      text-align: center;
+      color: #434343;
+      font-size: 13px;
+      font-family: Comfortaa;
+      font-weight: 400;
+      line-height: 22px;
+      word-wrap: break-word;
+    }
+    .Search {
+      left: 78px;
+      top: 0px;
+      position: absolute;
+      text-align: center;
+      color: #434343;
+      font-size: 13px;
+      font-family: Comfortaa;
+      font-weight: 400;
+      line-height: 22px;
+      word-wrap: break-word;
+    }
+    .Home {
+      left: 0px;
+      top: 0px;
+      position: absolute;
+      text-align: center;
+      color: black;
+      font-size: 13px;
+      font-family: Comfortaa;
+      font-weight: 700;
+      line-height: 22px;
+      word-wrap: break-word;
+    }

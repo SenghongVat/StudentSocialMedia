@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Lobster&family=Righteous&display=swap');
+.SignIn {
+  margin: auto;
+  width: 430px;
+  height: 932px;
+  position: relative;
+  background: white;
+  border-radius: 60px;
+  overflow: hidden;
+  border: 2.50px black solid;
+}
+.Group5 {
+  width: 183px;
+  height: 35.31px;
+  left: 125px;
+  top: 729px;
+  position: absolute;
+  opacity: 0.80;
+}
+.Image3 {
+  width: 35px;
+  height: 35px;
+  left: 148px;
+  top: 0px;
+  position: absolute;
+}
+.Image2 {
+  width: 35px;
+  height: 35px;
+  left: 73px;
+  top: 0px;
+  position: absolute;
+}
+.Image1 {
+  width: 35px; 
+  height: 35px;
+  left: 0px;
+  top: 5px;
+  position: absolute;
+}
+.Iphonebar {
+  width: 336.4px;
+  height: 894px;
+  left: 47px;
+  top: 27px;
+  position: absolute;
+}
+.Time {
+  width: 54px;
+  height: 20px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 17px;
+  font-family: SF Pro Text;
+  font-weight: 600;
+  line-height: 22px;
+  word-wrap: break-word;
+}
+.RightSide {
+  width: 77.4px; height: 13px; left: 259px; top: 3px; position: absolute;
+}
+  .BatteryBar {
+    width: 27.4px; height: 13px; left: 50px; top: 0px; position: absolute;
+  }
+  .Wifi {
+    width: 17px; height: 11.83px; left: 26px; top: 1px; position: absolute;
+  }
+  .IconMobileSignal{
+    width: 18px; height: 12px; left: 0px; top: 1px; position: absolute;
+  }
